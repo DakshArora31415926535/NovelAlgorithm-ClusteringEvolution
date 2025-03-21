@@ -44,6 +44,8 @@ This clustering algorithm is a **base component** for multiple research-level us
 
 ## 📸 Example Output
 
+Following is the image for you to see the cluster bifercation happing . the Final image in in the main directory . The following image is genaretd by the code after analysing the inut image . This is the resized version of that input image (without noise being added)
+
 ![Example Clustered Image](./generated_resized_image_using_dynamic_clustering_without_noise_filled.jpg)
 
 ---
