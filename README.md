@@ -44,7 +44,7 @@ This clustering algorithm is a **base component** for multiple research-level us
 
 ## 📸 Example Output
 
-![Example Clustered Image](./generated_resized_image_using_dynamic_clustering_without_noise_filled.jpg)
+![Example Clustered Image](./generated_resized_image_using_dynamic_clustering_noise_filled.jpg)
 
 ---
 
